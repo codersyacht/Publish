@@ -44,6 +44,7 @@ git config --list
 A different remote.origin.url setting might throw the following error:
 
 <img width="1120" alt="image" src="https://user-images.githubusercontent.com/128015499/225806964-82d97ff5-0d95-4a52-be4a-ed22662ec105.png">
+
 You may either replace the remote.origin.url to _Homebrew/brew_ using the following command:
 
 ```CMD
