@@ -1,3 +1,5 @@
+# Homebrew
+
 ### **Uninstallation (Optional)**
 
 If you already have installed homebrew on your machine and wish to uninstall, then follow the steps below.
