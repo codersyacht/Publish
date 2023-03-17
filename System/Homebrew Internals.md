@@ -8,18 +8,18 @@ If you already have installed homebrew on your machine and wish to uninstall, th
 Unscoped packages:
 
 ```CMD
-brew uninstall <package_name>
+brew uninstall -g <package_name>
 ```
 example:
 
 ```CMD
-brew uninstall node
+brew uninstall -g node
 ```
 
 Scoped packages:
 
 ```CMD
-brew uninstall <@scope/package_name>
+brew uninstall -g <@scope/package_name>
 ```
 
 example:
