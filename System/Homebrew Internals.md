@@ -68,7 +68,7 @@ The installation process will prompt for sudo access. If installation is success
 
 <img width="1120" alt="image" src="https://user-images.githubusercontent.com/128015499/225805404-18f2dcef-78b4-428b-b32f-a12774dc5397.png">
 
-2. In ARM based system, the Homebrew's bin directory will not be in the classpath. The installation summary will provide addition steps to add the bin directory to path, do that brew command can be used from anywhere.
+2. In ARM based system, the Homebrew's bin directory will not be in the classpath. The installation summary will provide addition steps to add the bin directory to path, so that brew command can be used from anywhere.
 
 ### **The FileSystems**
 
