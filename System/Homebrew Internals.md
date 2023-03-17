@@ -81,6 +81,7 @@ The installation process will prompt for sudo access. If installation is success
 7. Homebrew may also add symbolic links to packages that it installs to _/usr/local/bin_.
 
 **ARM**
+
 The entire Homebrew package including Cellar, Caskroom and other supporting directories will be create under /opt/homebrew.
 
 ### **Installing software packages**
