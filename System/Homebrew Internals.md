@@ -8,7 +8,7 @@ If you already have installed homebrew on your machine and wish to uninstall, th
 Unscoped packages:
 
 ```CMD
-npm uninstall <package_name>
+brew uninstall <package_name>
 ```
 example:
 
@@ -19,13 +19,13 @@ brew uninstall node
 Scoped packages:
 
 ```CMD
-npm uninstall <@scope/package_name>
+brew uninstall <@scope/package_name>
 ```
 
 example:
 
 ```CMD
-npm uninstall -g @angular/cli
+brew uninstall -g @angular/cli
 ```
 
 3. To uninstall homebrew, execute the following command:
