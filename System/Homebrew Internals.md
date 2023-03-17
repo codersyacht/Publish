@@ -78,9 +78,15 @@ The installation process will prompt for sudo access. If installation is success
 3. A new directory named _/usr/local/Caskroom_ will be created. This directory will contain GUI applications.
 4. Few more supporting directories will be created under _/usr/local/_.
 6. The _brew_ command can be found under _/usr/local/bin_. This is symbolic link to /_usr/local/Homebrew/bin/brew_.
-7. Homebrew may also add symbolic links to packages that it install to _/usr/local/bin_.
+7. Homebrew may also add symbolic links to packages that it installs to _/usr/local/bin_.
 
 **ARM**
-1. The entire Homebrew package including Cellar, Caskroom and other supporting directories will be create under /opt/homebrew.
+The entire Homebrew package including Cellar, Caskroom and other supporting directories will be create under /opt/homebrew.
+
+### **Installing software packages**
+
+```CMD
+brew install telnet
+```
 
 Mohamed Jawahar Hussain
