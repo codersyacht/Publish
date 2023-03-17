@@ -90,4 +90,5 @@ The entire Homebrew package including Cellar, Caskroom and other supporting dire
 brew install telnet
 ```
 
-Mohamed Jawahar Hussain
+
+**Mohamed Jawahar Hussain**
